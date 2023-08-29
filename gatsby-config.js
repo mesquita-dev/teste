@@ -7,9 +7,6 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
     description: `Explore o Futuro da Experiência do Cliente: Sua Opinião é Fundamental! Participe da Nossa Pesquisa de Satisfação Exclusiva para Clientes e Ajude-nos a Aperfeiçoar Ainda Mais Nossos Serviços. Sua Voz Faz a Diferença!`,
   },
-  flags: {
-    DEV_SSR: true,
-  },
   plugins: [
     "gatsby-plugin-use-query-params",
     "gatsby-plugin-postcss", 

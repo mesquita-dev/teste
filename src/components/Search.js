@@ -9,7 +9,7 @@ const Search = () => {
   const keyParam = searchParams.get('key');
 
   const handlesubmit = (e) => {
-    console.log(e.target.value)
+    alert('teste')
   }
 
   return (

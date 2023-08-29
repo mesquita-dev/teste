@@ -6,7 +6,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // markup
 const IndexPage = () => {
-
   const currentYear = new Date().getFullYear()
 
   return (
